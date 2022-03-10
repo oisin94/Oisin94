@@ -1,8 +1,8 @@
 body {
-	color:#EF8354;
+	color:#000000;
 	font-family:Verdana, Geneva, Tahoma, sans-serif;	
     text-align: center;
-    background-color:#0F7173;
+    background-color:whitesmoke;
     
 
 }
@@ -39,7 +39,7 @@ margin: 5px;
 }
 
 a {
-  color: #EF8354;
+  color: #181681;
 }
 
 .box1{
@@ -68,7 +68,7 @@ ul {
   }
 
   h1, h2 {
-    text-shadow: 2px 2px red;
+    text-shadow: 2px 2px rgb(90, 88, 88);
   }
 
   h3 {
